@@ -1,0 +1,13 @@
+User-agent: ia_archiver
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+User-agent: SurveyBot
+Disallow: /
+User-agent: Who.is Bot
+Disallow: /
+User-agent: AboutUsBot
+Disallow: /
+User-agent: Yandex
+Host: rusarmcls.com
+Sitemap: https://rusarmcls.com/sitemap.xml
